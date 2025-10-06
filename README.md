@@ -3,3 +3,5 @@
 We are currently organizing the code and will upload it soon.
 
 ## Method
+
+![image](Images/New_Fig2.png)
